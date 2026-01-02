@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain-anthropic
+langgraph
+langchain-mcp-adapters
+langchain-core
+mcp
+aiolimiter
+tenacity
+requests
+beautifulsoup4
+elevenlabs
+gtts
+streamlit
+pydantic
+
